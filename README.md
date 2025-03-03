@@ -1,10 +1,12 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> what's up? I'm Sergio Roa</h1>
-<!-- TODO: add an animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=BD0C34&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=120&lines=Data+Scientist;Co-founder+of+ResiRed;Informatics+Engineering!" alt="Typing SVG" /></a>
+</p>
 
 <h2>👨‍💻 About Me:</h2>
 <picture> <img align="right" src="https://media3.giphy.com/media/cmCEsJZHYBPels360q/200w.gif?cid=6c09b952lvbtqgwq3boiuky2jsvskqouycu6gr4zvp8m9ayg&ep=v1_stickers_search&rid=200w.gif&ct=s" width="250px"></picture>
 <p>
-  Hello! I'm Sergio Roa, a passionate Data Scientist in training, an Informatics Engineering student at <a href="https://www.unisabana.edu.co/">Universidad de La Sabana</a> and a co-founder of <a href="http://resired.site">Resired</a>. I'm deeply interested in Artificial Intelligence and Data Science, constantly exploring and studying new ways to harness data in solving real-world problems.
+  Hello! I'm Sergio Roa, a passionate Data Scientist in training, an Informatics Engineering student at <a href="https://www.unisabana.edu.co/">Universidad de La Sabana</a> and a co-founder of <a href="http://resired.site">Resired</a>. I'm deeply interested in Artificial Intelligence, constantly exploring and studying new ways to harness data in solving real-world problems 🤓.
 </p>
 <p>
   I enjoy working in a team, listening to everyone's opinions, and making decisions together. I relish tackling challenges and complex problems, and I am known for fueling my coding sessions with a cup of coffee ☕. Whether we're discussing the latest technology or our favorite movies during a coffee break, I'm always up for a good conversation. 
