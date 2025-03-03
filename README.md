@@ -55,5 +55,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=bd0c34&text=See%20you%20soon!👋&reversal=false&textBg=false&animation=blink&rotate=0&section=footer&fontAlignY=64&height=200&fontColor=fdfdfd"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=bd0c34&text=See%20you%20soon!👋&&section=footer&fontColor=fdfdfd"/>
 </p>
