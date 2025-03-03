@@ -38,7 +38,7 @@
 </p>
 
 ## 📑 Contributions Graph  
-![Snake animation](https://github.com/SAGR2003/SAGR2003/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SAGR2003/SAGR2003/output/github-contribution-grid-snake.svg)
 <br>
 
 ## 👥 Contact me:
