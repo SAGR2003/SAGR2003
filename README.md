@@ -49,7 +49,7 @@
   <a href="mailto:sergio.roa814@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" style="width: 40px; height: 40px;">
   </a>
-  <a href="https://www.linkedin.com/in/sergio-roa" target="_blank">
+  <a href="https://www.linkedin.com/in/sergio-andres-gonz%C3%A1lez-roa-61735b250/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" style="width: 40px; height: 40px;">
   </a>
 </p>
