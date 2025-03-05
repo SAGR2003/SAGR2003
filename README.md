@@ -52,6 +52,9 @@
   <a href="https://www.linkedin.com/in/sergio-andres-gonz%C3%A1lez-roa-61735b250/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" style="width: 40px; height: 40px;">
   </a>
+  <a href="https://wa.me/+573172220586" target="_blank">
+    <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" style="width: 40px; height: 40px;">
+  </a>
 </p>
 
 <p align="center">
