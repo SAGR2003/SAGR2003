@@ -37,8 +37,8 @@
   </a>
 </p>
 
-<!--## 📑 Contributions Graph  
-![Snake animation](https://raw.githubusercontent.com/SAGR2003/SAGR2003/output/github-contribution-grid-snake.svg)-->
+## 📑 Contributions Graph  
+![Snake animation](https://raw.githubusercontent.com/SAGR2003/SAGR2003/output/github-contribution-grid-snake.svg)
 <br>
 
 ## 👥 Contact me:
